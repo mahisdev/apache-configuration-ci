@@ -1,0 +1,5 @@
+I, [2018-05-23T07:07:18.883179 #2644]  INFO -- Kitchen: -----> Starting Kitchen (v1.21.2)
+E, [2018-05-23T07:07:18.884769 #2644] ERROR -- Kitchen: 
+No instances for regex `', try running `kitchen list'
+
+
